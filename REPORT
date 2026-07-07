@@ -1,0 +1,86 @@
+📊 Project Report
+Airbnb Analytics Dashboard Report
+
+The Airbnb Analytics Dashboard is an interactive business intelligence solution developed in Power BI to analyze Airbnb listing data. The dashboard transforms raw data into meaningful visualizations, allowing users to explore pricing, host performance, customer ratings, room types, and neighbourhood-level trends.
+
+This project focuses on converting large volumes of Airbnb data into actionable business insights through KPI cards, DAX calculations, interactive filters, and visual analytics.
+
+Project Objectives
+Understand Airbnb market performance.
+Analyze listing distribution.
+Compare neighbourhood performance.
+Evaluate host contributions.
+Study pricing behaviour.
+Monitor review trends.
+Build an interactive reporting solution.
+Dashboard Components
+Executive KPI Section
+
+Displays important business metrics including:
+
+Total Listings
+Total Hosts
+Average Price
+Average Rating
+Total Reviews
+Additional business KPIs
+Charts Included
+Column Charts
+Clustered Column Charts
+Bar Charts
+Donut Charts
+Interactive Slicers
+KPI Cards
+Analysis Performed
+Listing Analysis
+
+Examines the total number of Airbnb properties available.
+
+Price Analysis
+
+Compares average property prices across different categories.
+
+Room Type Analysis
+
+Shows the popularity of various accommodation types.
+
+Host Analysis
+
+Identifies active hosts and their contribution.
+
+Review Analysis
+
+Evaluates customer feedback distribution.
+
+Neighbourhood Analysis
+
+Highlights high-performing locations based on listings and business activity.
+
+Dashboard Features
+Interactive filtering
+Cross-filtering visuals
+Dynamic KPIs
+Responsive visualizations
+Drill-down analysis
+Clean dashboard layout
+Business Insights
+High-demand neighbourhoods can be identified quickly.
+Certain room types dominate Airbnb listings.
+Pricing varies significantly across locations.
+Host activity is concentrated among a smaller group of highly active hosts.
+Customer reviews help identify well-performing properties.
+Interactive filtering enables deeper market exploration.
+Skills Demonstrated
+Power BI
+Power Query
+DAX
+Data Modeling
+Dashboard Design
+Business Intelligence
+Data Visualization
+Analytical Thinking
+KPI Development
+Interactive Reporting
+Conclusion
+
+The Airbnb Analytics Dashboard effectively transforms raw Airbnb data into an interactive reporting solution that supports business analysis and strategic decision-making. It demonstrates proficiency in Power BI, DAX, data modeling, and dashboard development while showcasing the ability to communicate business insights through professional visualizations.

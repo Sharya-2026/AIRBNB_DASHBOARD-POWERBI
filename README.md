@@ -81,7 +81,6 @@ Users can filter dashboard data by:
 
 # Skills Demonstrated
 
-- Data Cleaning
 - Data Transformation
 - Data Modeling
 - DAX Calculations

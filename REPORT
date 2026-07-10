@@ -5,7 +5,8 @@ The Airbnb Analytics Dashboard is an interactive business intelligence solution 
 
 This project focuses on converting large volumes of Airbnb data into actionable business insights through KPI cards, DAX calculations, interactive filters, and visual analytics.
 
-Project Objectives
+Project Objectives--
+
 Understand Airbnb market performance.
 Analyze listing distribution.
 Compare neighbourhood performance.
@@ -16,7 +17,7 @@ Build an interactive reporting solution.
 Dashboard Components
 Executive KPI Section
 
-Displays important business metrics including:
+Displays important business metrics including--
 
 Total Listings
 Total Hosts
@@ -34,29 +35,21 @@ KPI Cards
 Analysis Performed
 Listing Analysis
 
-Examines the total number of Airbnb properties available.
+Examines the total number of Airbnb properties available---
 
 Price Analysis
-
 Compares average property prices across different categories.
-
 Room Type Analysis
-
 Shows the popularity of various accommodation types.
-
 Host Analysis
-
 Identifies active hosts and their contribution.
-
 Review Analysis
-
 Evaluates customer feedback distribution.
-
 Neighbourhood Analysis
-
 Highlights high-performing locations based on listings and business activity.
 
-Dashboard Features
+Dashboard Features--
+
 Interactive filtering
 Cross-filtering visuals
 Dynamic KPIs
